@@ -46,6 +46,8 @@ book = input("📖 What's your favorite book? ")
 season = input("🍂 What's your favorite season? ")
 tv = input("📽️ What's your faovrite TV show? ")
 travel = input("✈️ What's your favorite place to travel? ")
+snack = input("🍟 What's your favorite snack? ")
+animal = input("😺 What's your favorite animal? ")
 
 # Print custom section
 print("===== BONUS INFO =====")
